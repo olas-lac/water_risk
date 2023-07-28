@@ -1,0 +1,330 @@
+Field in Analysis,Field in Source,Source
+fid,fid,WRI Baseline
+string_id,string_id,WRI Baseline
+aq30_id,aq30_id,WRI Baseline
+pfaf_id,pfaf_id,WRI Baseline
+gid_1,gid_1,WRI Baseline
+aqid,aqid,WRI Baseline
+gid_0,gid_0,WRI Baseline
+name_0,name_0,WRI Baseline
+name_1,name_1,WRI Baseline
+area_km2,area_km2,WRI Baseline
+bws_raw,bws_raw,WRI Baseline
+bws_score,bws_score,WRI Baseline
+bws_cat,bws_cat,WRI Baseline
+bws_label,bws_label,WRI Baseline
+bwd_raw,bwd_raw,WRI Baseline
+bwd_score,bwd_score,WRI Baseline
+bwd_cat,bwd_cat,WRI Baseline
+bwd_label,bwd_label,WRI Baseline
+iav_raw,iav_raw,WRI Baseline
+iav_score,iav_score,WRI Baseline
+iav_cat,iav_cat,WRI Baseline
+iav_label,iav_label,WRI Baseline
+sev_raw,sev_raw,WRI Baseline
+sev_score,sev_score,WRI Baseline
+sev_cat,sev_cat,WRI Baseline
+sev_label,sev_label,WRI Baseline
+gtd_raw,gtd_raw,WRI Baseline
+gtd_score,gtd_score,WRI Baseline
+gtd_cat,gtd_cat,WRI Baseline
+gtd_label,gtd_label,WRI Baseline
+rfr_raw,rfr_raw,WRI Baseline
+rfr_score,rfr_score,WRI Baseline
+rfr_cat,rfr_cat,WRI Baseline
+rfr_label,rfr_label,WRI Baseline
+cfr_raw,cfr_raw,WRI Baseline
+cfr_score,cfr_score,WRI Baseline
+cfr_cat,cfr_cat,WRI Baseline
+cfr_label,cfr_label,WRI Baseline
+drr_raw,drr_raw,WRI Baseline
+drr_score,drr_score,WRI Baseline
+drr_cat,drr_cat,WRI Baseline
+drr_label,drr_label,WRI Baseline
+ucw_raw,ucw_raw,WRI Baseline
+ucw_score,ucw_score,WRI Baseline
+ucw_cat,ucw_cat,WRI Baseline
+ucw_label,ucw_label,WRI Baseline
+cep_raw,cep_raw,WRI Baseline
+cep_score,cep_score,WRI Baseline
+cep_cat,cep_cat,WRI Baseline
+cep_label,cep_label,WRI Baseline
+udw_raw,udw_raw,WRI Baseline
+udw_score,udw_score,WRI Baseline
+udw_cat,udw_cat,WRI Baseline
+udw_label,udw_label,WRI Baseline
+usa_raw,usa_raw,WRI Baseline
+usa_score,usa_score,WRI Baseline
+usa_cat,usa_cat,WRI Baseline
+usa_label,usa_label,WRI Baseline
+rri_score,rri_score,WRI Baseline
+rri_cat,rri_cat,WRI Baseline
+rri_label,rri_label,WRI Baseline
+w_awr_def_,w_awr_def_qan_raw,WRI Baseline
+w_awr_de_1,w_awr_def_qan_score,WRI Baseline
+w_awr_de_2,w_awr_def_qan_cat,WRI Baseline
+w_awr_de_3,w_awr_def_qan_label,WRI Baseline
+w_awr_de_4,w_awr_def_qan_weight_fraction,WRI Baseline
+w_awr_de_5,w_awr_def_qal_raw,WRI Baseline
+w_awr_de_6,w_awr_def_qal_score,WRI Baseline
+w_awr_de_7,w_awr_def_qal_cat,WRI Baseline
+w_awr_de_8,w_awr_def_qal_label,WRI Baseline
+w_awr_de_9,w_awr_def_qal_weight_fraction,WRI Baseline
+w_awr_de10,w_awr_def_rrr_raw,WRI Baseline
+w_awr_de11,w_awr_def_rrr_score,WRI Baseline
+w_awr_de12,w_awr_def_rrr_cat,WRI Baseline
+w_awr_de13,w_awr_def_rrr_label,WRI Baseline
+w_awr_de14,w_awr_def_rrr_weight_fraction,WRI Baseline
+w_awr_de15,w_awr_def_tot_raw,WRI Baseline
+w_awr_de16,w_awr_def_tot_score,WRI Baseline
+w_awr_de17,w_awr_def_tot_cat,WRI Baseline
+w_awr_de18,w_awr_def_tot_label,WRI Baseline
+w_awr_de19,w_awr_def_tot_weight_fraction,WRI Baseline
+w_awr_agr_,w_awr_agr_qan_raw,WRI Baseline
+w_awr_ag_1,w_awr_agr_qan_score,WRI Baseline
+w_awr_ag_2,w_awr_agr_qan_cat,WRI Baseline
+w_awr_ag_3,w_awr_agr_qan_label,WRI Baseline
+w_awr_ag_4,w_awr_agr_qan_weight_fraction,WRI Baseline
+w_awr_ag_5,w_awr_agr_qal_raw,WRI Baseline
+w_awr_ag_6,w_awr_agr_qal_score,WRI Baseline
+w_awr_ag_7,w_awr_agr_qal_cat,WRI Baseline
+w_awr_ag_8,w_awr_agr_qal_label,WRI Baseline
+w_awr_ag_9,w_awr_agr_qal_weight_fraction,WRI Baseline
+w_awr_ag10,w_awr_agr_rrr_raw,WRI Baseline
+w_awr_ag11,w_awr_agr_rrr_score,WRI Baseline
+w_awr_ag12,w_awr_agr_rrr_cat,WRI Baseline
+w_awr_ag13,w_awr_agr_rrr_label,WRI Baseline
+w_awr_ag14,w_awr_agr_rrr_weight_fraction,WRI Baseline
+w_awr_ag15,w_awr_agr_tot_raw,WRI Baseline
+w_awr_ag16,w_awr_agr_tot_score,WRI Baseline
+w_awr_ag17,w_awr_agr_tot_cat,WRI Baseline
+w_awr_ag18,w_awr_agr_tot_label,WRI Baseline
+w_awr_ag19,w_awr_agr_tot_weight_fraction,WRI Baseline
+w_awr_che_,w_awr_che_qan_raw,WRI Baseline
+w_awr_ch_1,w_awr_che_qan_score,WRI Baseline
+w_awr_ch_2,w_awr_che_qan_cat,WRI Baseline
+w_awr_ch_3,w_awr_che_qan_label,WRI Baseline
+w_awr_ch_4,w_awr_che_qan_weight_fraction,WRI Baseline
+w_awr_ch_5,w_awr_che_qal_raw,WRI Baseline
+w_awr_ch_6,w_awr_che_qal_score,WRI Baseline
+w_awr_ch_7,w_awr_che_qal_cat,WRI Baseline
+w_awr_ch_8,w_awr_che_qal_label,WRI Baseline
+w_awr_ch_9,w_awr_che_qal_weight_fraction,WRI Baseline
+w_awr_ch10,w_awr_che_rrr_raw,WRI Baseline
+w_awr_ch11,w_awr_che_rrr_score,WRI Baseline
+w_awr_ch12,w_awr_che_rrr_cat,WRI Baseline
+w_awr_ch13,w_awr_che_rrr_label,WRI Baseline
+w_awr_ch14,w_awr_che_rrr_weight_fraction,WRI Baseline
+w_awr_ch15,w_awr_che_tot_raw,WRI Baseline
+w_awr_ch16,w_awr_che_tot_score,WRI Baseline
+w_awr_ch17,w_awr_che_tot_cat,WRI Baseline
+w_awr_ch18,w_awr_che_tot_label,WRI Baseline
+w_awr_ch19,w_awr_che_tot_weight_fraction,WRI Baseline
+w_awr_con_,w_awr_con_qan_raw,WRI Baseline
+w_awr_co_1,w_awr_con_qan_score,WRI Baseline
+w_awr_co_2,w_awr_con_qan_cat,WRI Baseline
+w_awr_co_3,w_awr_con_qan_label,WRI Baseline
+w_awr_co_4,w_awr_con_qan_weight_fraction,WRI Baseline
+w_awr_co_5,w_awr_con_qal_raw,WRI Baseline
+w_awr_co_6,w_awr_con_qal_score,WRI Baseline
+w_awr_co_7,w_awr_con_qal_cat,WRI Baseline
+w_awr_co_8,w_awr_con_qal_label,WRI Baseline
+w_awr_co_9,w_awr_con_qal_weight_fraction,WRI Baseline
+w_awr_co10,w_awr_con_rrr_raw,WRI Baseline
+w_awr_co11,w_awr_con_rrr_score,WRI Baseline
+w_awr_co12,w_awr_con_rrr_cat,WRI Baseline
+w_awr_co13,w_awr_con_rrr_label,WRI Baseline
+w_awr_co14,w_awr_con_rrr_weight_fraction,WRI Baseline
+w_awr_co15,w_awr_con_tot_raw,WRI Baseline
+w_awr_co16,w_awr_con_tot_score,WRI Baseline
+w_awr_co17,w_awr_con_tot_cat,WRI Baseline
+w_awr_co18,w_awr_con_tot_label,WRI Baseline
+w_awr_co19,w_awr_con_tot_weight_fraction,WRI Baseline
+w_awr_elp_,w_awr_elp_qan_raw,WRI Baseline
+w_awr_el_1,w_awr_elp_qan_score,WRI Baseline
+w_awr_el_2,w_awr_elp_qan_cat,WRI Baseline
+w_awr_el_3,w_awr_elp_qan_label,WRI Baseline
+w_awr_el_4,w_awr_elp_qan_weight_fraction,WRI Baseline
+w_awr_el_5,w_awr_elp_qal_raw,WRI Baseline
+w_awr_el_6,w_awr_elp_qal_score,WRI Baseline
+w_awr_el_7,w_awr_elp_qal_cat,WRI Baseline
+w_awr_el_8,w_awr_elp_qal_label,WRI Baseline
+w_awr_el_9,w_awr_elp_qal_weight_fraction,WRI Baseline
+w_awr_el10,w_awr_elp_rrr_raw,WRI Baseline
+w_awr_el11,w_awr_elp_rrr_score,WRI Baseline
+w_awr_el12,w_awr_elp_rrr_cat,WRI Baseline
+w_awr_el13,w_awr_elp_rrr_label,WRI Baseline
+w_awr_el14,w_awr_elp_rrr_weight_fraction,WRI Baseline
+w_awr_el15,w_awr_elp_tot_raw,WRI Baseline
+w_awr_el16,w_awr_elp_tot_score,WRI Baseline
+w_awr_el17,w_awr_elp_tot_cat,WRI Baseline
+w_awr_el18,w_awr_elp_tot_label,WRI Baseline
+w_awr_el19,w_awr_elp_tot_weight_fraction,WRI Baseline
+w_awr_fnb_,w_awr_fnb_qan_raw,WRI Baseline
+w_awr_fn_1,w_awr_fnb_qan_score,WRI Baseline
+w_awr_fn_2,w_awr_fnb_qan_cat,WRI Baseline
+w_awr_fn_3,w_awr_fnb_qan_label,WRI Baseline
+w_awr_fn_4,w_awr_fnb_qan_weight_fraction,WRI Baseline
+w_awr_fn_5,w_awr_fnb_qal_raw,WRI Baseline
+w_awr_fn_6,w_awr_fnb_qal_score,WRI Baseline
+w_awr_fn_7,w_awr_fnb_qal_cat,WRI Baseline
+w_awr_fn_8,w_awr_fnb_qal_label,WRI Baseline
+w_awr_fn_9,w_awr_fnb_qal_weight_fraction,WRI Baseline
+w_awr_fn10,w_awr_fnb_rrr_raw,WRI Baseline
+w_awr_fn11,w_awr_fnb_rrr_score,WRI Baseline
+w_awr_fn12,w_awr_fnb_rrr_cat,WRI Baseline
+w_awr_fn13,w_awr_fnb_rrr_label,WRI Baseline
+w_awr_fn14,w_awr_fnb_rrr_weight_fraction,WRI Baseline
+w_awr_fn15,w_awr_fnb_tot_raw,WRI Baseline
+w_awr_fn16,w_awr_fnb_tot_score,WRI Baseline
+w_awr_fn17,w_awr_fnb_tot_cat,WRI Baseline
+w_awr_fn18,w_awr_fnb_tot_label,WRI Baseline
+w_awr_fn19,w_awr_fnb_tot_weight_fraction,WRI Baseline
+w_awr_min_,w_awr_min_qan_raw,WRI Baseline
+w_awr_mi_1,w_awr_min_qan_score,WRI Baseline
+w_awr_mi_2,w_awr_min_qan_cat,WRI Baseline
+w_awr_mi_3,w_awr_min_qan_label,WRI Baseline
+w_awr_mi_4,w_awr_min_qan_weight_fraction,WRI Baseline
+w_awr_mi_5,w_awr_min_qal_raw,WRI Baseline
+w_awr_mi_6,w_awr_min_qal_score,WRI Baseline
+w_awr_mi_7,w_awr_min_qal_cat,WRI Baseline
+w_awr_mi_8,w_awr_min_qal_label,WRI Baseline
+w_awr_mi_9,w_awr_min_qal_weight_fraction,WRI Baseline
+w_awr_mi10,w_awr_min_rrr_raw,WRI Baseline
+w_awr_mi11,w_awr_min_rrr_score,WRI Baseline
+w_awr_mi12,w_awr_min_rrr_cat,WRI Baseline
+w_awr_mi13,w_awr_min_rrr_label,WRI Baseline
+w_awr_mi14,w_awr_min_rrr_weight_fraction,WRI Baseline
+w_awr_mi15,w_awr_min_tot_raw,WRI Baseline
+w_awr_mi16,w_awr_min_tot_score,WRI Baseline
+w_awr_mi17,w_awr_min_tot_cat,WRI Baseline
+w_awr_mi18,w_awr_min_tot_label,WRI Baseline
+w_awr_mi19,w_awr_min_tot_weight_fraction,WRI Baseline
+w_awr_ong_,w_awr_ong_qan_raw,WRI Baseline
+w_awr_on_1,w_awr_ong_qan_score,WRI Baseline
+w_awr_on_2,w_awr_ong_qan_cat,WRI Baseline
+w_awr_on_3,w_awr_ong_qan_label,WRI Baseline
+w_awr_on_4,w_awr_ong_qan_weight_fraction,WRI Baseline
+w_awr_on_5,w_awr_ong_qal_raw,WRI Baseline
+w_awr_on_6,w_awr_ong_qal_score,WRI Baseline
+w_awr_on_7,w_awr_ong_qal_cat,WRI Baseline
+w_awr_on_8,w_awr_ong_qal_label,WRI Baseline
+w_awr_on_9,w_awr_ong_qal_weight_fraction,WRI Baseline
+w_awr_on10,w_awr_ong_rrr_raw,WRI Baseline
+w_awr_on11,w_awr_ong_rrr_score,WRI Baseline
+w_awr_on12,w_awr_ong_rrr_cat,WRI Baseline
+w_awr_on13,w_awr_ong_rrr_label,WRI Baseline
+w_awr_on14,w_awr_ong_rrr_weight_fraction,WRI Baseline
+w_awr_on15,w_awr_ong_tot_raw,WRI Baseline
+w_awr_on16,w_awr_ong_tot_score,WRI Baseline
+w_awr_on17,w_awr_ong_tot_cat,WRI Baseline
+w_awr_on18,w_awr_ong_tot_label,WRI Baseline
+w_awr_on19,w_awr_ong_tot_weight_fraction,WRI Baseline
+w_awr_smc_,w_awr_smc_qan_raw,WRI Baseline
+w_awr_sm_1,w_awr_smc_qan_score,WRI Baseline
+w_awr_sm_2,w_awr_smc_qan_cat,WRI Baseline
+w_awr_sm_3,w_awr_smc_qan_label,WRI Baseline
+w_awr_sm_4,w_awr_smc_qan_weight_fraction,WRI Baseline
+w_awr_sm_5,w_awr_smc_qal_raw,WRI Baseline
+w_awr_sm_6,w_awr_smc_qal_score,WRI Baseline
+w_awr_sm_7,w_awr_smc_qal_cat,WRI Baseline
+w_awr_sm_8,w_awr_smc_qal_label,WRI Baseline
+w_awr_sm_9,w_awr_smc_qal_weight_fraction,WRI Baseline
+w_awr_sm10,w_awr_smc_rrr_raw,WRI Baseline
+w_awr_sm11,w_awr_smc_rrr_score,WRI Baseline
+w_awr_sm12,w_awr_smc_rrr_cat,WRI Baseline
+w_awr_sm13,w_awr_smc_rrr_label,WRI Baseline
+w_awr_sm14,w_awr_smc_rrr_weight_fraction,WRI Baseline
+w_awr_sm15,w_awr_smc_tot_raw,WRI Baseline
+w_awr_sm16,w_awr_smc_tot_score,WRI Baseline
+w_awr_sm17,w_awr_smc_tot_cat,WRI Baseline
+w_awr_sm18,w_awr_smc_tot_label,WRI Baseline
+w_awr_sm19,w_awr_smc_tot_weight_fraction,WRI Baseline
+w_awr_tex_,w_awr_tex_qan_raw,WRI Baseline
+w_awr_te_1,w_awr_tex_qan_score,WRI Baseline
+w_awr_te_2,w_awr_tex_qan_cat,WRI Baseline
+w_awr_te_3,w_awr_tex_qan_label,WRI Baseline
+w_awr_te_4,w_awr_tex_qan_weight_fraction,WRI Baseline
+w_awr_te_5,w_awr_tex_qal_raw,WRI Baseline
+w_awr_te_6,w_awr_tex_qal_score,WRI Baseline
+w_awr_te_7,w_awr_tex_qal_cat,WRI Baseline
+w_awr_te_8,w_awr_tex_qal_label,WRI Baseline
+w_awr_te_9,w_awr_tex_qal_weight_fraction,WRI Baseline
+w_awr_te10,w_awr_tex_rrr_raw,WRI Baseline
+w_awr_te11,w_awr_tex_rrr_score,WRI Baseline
+w_awr_te12,w_awr_tex_rrr_cat,WRI Baseline
+w_awr_te13,w_awr_tex_rrr_label,WRI Baseline
+w_awr_te14,w_awr_tex_rrr_weight_fraction,WRI Baseline
+w_awr_te15,w_awr_tex_tot_raw,WRI Baseline
+w_awr_te16,w_awr_tex_tot_score,WRI Baseline
+w_awr_te17,w_awr_tex_tot_cat,WRI Baseline
+w_awr_te18,w_awr_tex_tot_label,WRI Baseline
+w_awr_te19,w_awr_tex_tot_weight_fraction,WRI Baseline
+fid_2,fid_gadm,GADM
+UID,UID,GADM
+GID_0_2,GID_0,GADM
+ID_0,ID_0,GADM
+NAME_0_2,NAME_0,GADM
+GID_1_2,GID_1,GADM
+ID_1,ID_1,GADM
+NAME_1_2,NAME_1,GADM
+VARNAME_1,VARNAME_1,GADM
+NL_NAME_1,NL_NAME_1,GADM
+HASC_1,HASC_1,GADM
+CC_1,CC_1,GADM
+TYPE_1,TYPE_1,GADM
+ENGTYPE_1,ENGTYPE_1,GADM
+VALIDFR_1,VALIDFR_1,GADM
+VALIDTO_1,VALIDTO_1,GADM
+REMARKS_1,REMARKS_1,GADM
+GID_2,GID_2,GADM
+ID_2,ID_2,GADM
+NAME_2,name_2,GADM
+VARNAME_2,VARNAME_2,GADM
+NL_NAME_2,NL_NAME_2,GADM
+HASC_2,HASC_2,GADM
+CC_2,CC_2,GADM
+TYPE_2,TYPE_2,GADM
+ENGTYPE_2,ENGTYPE_2,GADM
+VALIDFR_2,VALIDFR_2,GADM
+VALIDTO_2,VALIDTO_2,GADM
+REMARKS_2,REMARKS_2,GADM
+GID_3,GID_3,GADM
+ID_3,ID_3,GADM
+NAME_3,NAME_3,GADM
+VARNAME_3,VARNAME_3,GADM
+NL_NAME_3,NL_NAME_3,GADM
+HASC_3,HASC_3,GADM
+CC_3,CC_3,GADM
+TYPE_3,TYPE_3,GADM
+ENGTYPE_3,ENGTYPE_3,GADM
+VALIDFR_3,VALIDFR_3,GADM
+VALIDTO_3,VALIDTO_3,GADM
+REMARKS_3,REMARKS_3,GADM
+GID_4,GID_4,GADM
+ID_4,ID_4,GADM
+NAME_4,NAME_4,GADM
+VARNAME_4,VARNAME_4,GADM
+CC_4,CC_4,GADM
+TYPE_4,TYPE_4,GADM
+ENGTYPE_4,ENGTYPE_4,GADM
+VALIDFR_4,VALIDFR_4,GADM
+VALIDTO_4,VALIDTO_4,GADM
+REMARKS_4,REMARKS_4,GADM
+GID_5,GID_5,GADM
+ID_5,ID_5,GADM
+NAME_5,NAME_5,GADM
+CC_5,CC_5,GADM
+TYPE_5,TYPE_5,GADM
+ENGTYPE_5,ENGTYPE_5,GADM
+REGION,REGION,GADM
+VARREGION,VARREGION,GADM
+zone,zone,GADM
+X_sum,pop_sum,Calculated
+X_min,pop_min,Calculated
+X_max,pop_max,Calculated
+area,land_area_km2,Calculated
+perimeter,perimeter,Calculated
+layer,layer,Calculated
+path,path,Calculated
+row_id,row_id,Calculated
